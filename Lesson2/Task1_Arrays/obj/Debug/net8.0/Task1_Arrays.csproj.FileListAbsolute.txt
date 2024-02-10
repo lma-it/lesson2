@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\bin\Debug\net8.0\Task1_Arrays.exe
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\bin\Debug\net8.0\Task1_Arrays.deps.json
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\bin\Debug\net8.0\Task1_Arrays.runtimeconfig.json
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\bin\Debug\net8.0\Task1_Arrays.dll
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\bin\Debug\net8.0\Task1_Arrays.pdb
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.AssemblyInfo.cs
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.dll
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\refint\Task1_Arrays.dll
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.pdb
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\Task1_Arrays.genruntimeconfig.cache
+C:\Users\user\Desktop\Coding\Lesson2\Task1_Arrays\obj\Debug\net8.0\ref\Task1_Arrays.dll
